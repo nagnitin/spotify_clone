@@ -37,12 +37,11 @@ This Spotify clone includes the following features:
 Here are some screenshots showcasing the app:
 
 ### Home Screen
-![Home Screen](assets/images/home_screen.png)
+![Home Screen](home_page.jpg)
 
-### Now Playing
-![Now Playing](assets/images/now_playing.png)
+### Register Page
+![Register Page](register_page.jpg)
 
-(Add more screenshots as needed, replacing the filenames with the appropriate image paths.)
 
 ## Installation
 
